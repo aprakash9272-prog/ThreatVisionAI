@@ -22,7 +22,7 @@ chardet==5.2.0             # Encoding detection
 extract-msg==0.48.4        # .msg email parsing
 
 # ── IOC extraction ────────────────────────────────────────────────────────────
-ioc-finder==8.3.0          # Regex-based IOC extraction
+ioc-finder==9.4.1         # Regex-based IOC extraction
 python-evtx==0.8.0         # Windows EVTX log parsing
 
 # ── Network parsing ───────────────────────────────────────────────────────────
