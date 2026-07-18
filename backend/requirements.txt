@@ -19,3 +19,5 @@ orjson==3.10.7
 humanize==4.10.0
 
 websockets==13.0
+
+aiofiles==24.1.0
